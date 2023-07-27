@@ -6,7 +6,7 @@
 
 I'm an engineer. I was born in a small town called Prayagraj (formerly known as Allahabad) in India. I like to tinker with new technologies and build useful tools.
 
-- 🔭 I'm currently working as a Machine Learning Engineer at [Tesla Autopilot](http://tesla.com/autopilotai).
+- 🔭 I'm currently working as a Senior Autopilot Engineer at [Tesla](http://tesla.com/autopilotai) where I lead the AI-Platform Project.
 - 🌱 I had built [EvalAI](https://eval.ai/) as my [masters thesis](https://smartech.gatech.edu/handle/1853/60738) at Georgia Tech, which is an open source platform for evaluating and comparing machine learning and artificial intelligence algorithms at scale.
 - ⚡ I co-founded [Caliper](https://medium.com/caliper/introducing-caliper-3109fbd84513). Failed but learned a lot.
 - 😅 Fun fact: I once booked the train tickets from destination to source instead of source to destination and I realized about this after reaching the railyway station. 
