@@ -4,7 +4,7 @@
 **deshraj/deshraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Co-founder and CTO of [Embedchain](https://embedchain.ai). I like to tinker with new technologies and build useful tools.
+I'm Co-founder and CTO of [Mem0](https://mem0.ai). I like to tinker with new technologies and build useful tools.
 
 - 🔭 Previously, I worked as Senior Autopilot Engineer at [Tesla](http://tesla.com/autopilotai) where I lead the AI Platform.
 - 🌱 I had built [EvalAI](https://eval.ai/) as my [masters thesis](https://smartech.gatech.edu/handle/1853/60738) at Georgia Tech, which is an open source platform for evaluating and comparing machine learning and artificial intelligence algorithms at scale.
